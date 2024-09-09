@@ -1,0 +1,9 @@
+.p3
+{
+    font-size: 75px;
+    font-family: "Brush Script MT", cursive;
+    text-align: center;
+    border: solid 20px black;
+    background: lightblue;
+    box-shadow: 5px 10px orange;
+}
